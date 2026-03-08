@@ -1,4 +1,4 @@
-# 🔌 Embedded Systems Projects (Arduino & Raspberry Pi)
+# Embedded Systems Projects (Arduino & Raspberry Pi)
 
 A collection of my **embedded systems and microcontroller projects** built using **Arduino, Raspberry Pi Pico, and hardware simulation tools**.  
 These projects demonstrate practical experience with **microcontrollers, sensors, actuators, and real-time hardware control**.
