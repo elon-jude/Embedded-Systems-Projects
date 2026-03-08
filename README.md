@@ -15,7 +15,7 @@ https://wokwi.com/projects/453822303211461633
 ## Demo Videos
 ### 2. LED Brightness Control (PWM)
 Adjust LED brightness using `analogWrite()` with values sent from the **Serial Monitor**.
-▶️ Watch Demo  
+Watch Demo  
 https://youtu.be/IMplcShn4SQ
 
 ### 3. Servo Motor Control
