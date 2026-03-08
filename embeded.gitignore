@@ -1,0 +1,39 @@
+# Arduino / Embedded Builds
+
+# Compiled firmware
+*.hex
+*.bin
+*.elf
+*.eep
+# Object files
+*.o
+*.obj
+*.d
+# Build folders
+build/
+build-*/
+out/
+# Arduino temporary files
+*.ino.cpp
+
+
+# Raspberry Pi Pico / CMake
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+# Pico SDK build output
+*.uf2
+# VS Code
+.vscode/
+# Arduino IDE
+*.arduino
+*.tmp
+
+# OS Files
+.DS_Store
+Thumbs.db
+# Logs
+*.log
